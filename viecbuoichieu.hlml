@@ -68,7 +68,7 @@ function displayContents() {
         <div class="nav-links">
             <ul>
           <!--menu Item-->
-          <li><a href="viecbuoisang">Việc buổi sáng</a></li>
+          <li><a href="index.html">Việc buổi sáng</a></li>
           <li><a href="viecbuoichieu">Việc buổi chiều</a></li>
           <li><a href="viecbuoitoi">Việc buổi tối</a></li>
             </ul>
