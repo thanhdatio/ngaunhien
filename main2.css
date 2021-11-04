@@ -290,13 +290,13 @@ body{
     outline: none;
 }
 
-.Loterrybuttons{
+.buttons{
     width: 90%;
     margin: 60px auto 0 auto;
     display: flex;
     justify-content: space-around;
 }
-.Loterrybuttons button{
+.buttons button{
     width: 45px;
     height: 45px;
     background-color: #d23332;
@@ -308,12 +308,7 @@ body{
     cursor: pointer;
     outline: none;
 }
-.buttons button:nth-last-child(1){
-  background-color: #d23332;
-}
-.buttons button:nth-last-child(2){
-  background-color: #20b380;
-}
+
 .form .input-icon{
     color: #007bb7;
     font-size: 22px;
