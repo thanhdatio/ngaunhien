@@ -1,0 +1,443 @@
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0px;
+    font-family: 'segoe ui';
+  }
+  
+  .nav {
+    height: 50px;
+    width: 100%;
+    background-color: #1177ca;
+    position: relative;
+  }
+
+.nav > .nav-header {
+    display: inline;
+  }
+  
+  .nav > .nav-header > .nav-title {
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 10px 10px 10px;
+    font-size: 22px;
+    color: #fff;
+    font-weight: 550;
+  }
+
+.nav > .nav-links {
+    font-size: 18px;
+    display: inline;
+    float: right;
+
+  }
+  .nav > .nav-links > ul li a{
+    color: #fff;
+    line-height: 40px;
+    font-size: 18px;
+    display: block;
+    padding: 0 8px;
+    text-decoration: none;
+
+  }
+  .nav > .nav-links > ul{
+    list-style: none;
+    position: relative;
+    padding: 0;
+    margin-top: 5px;
+    
+  }
+  .nav > .nav-links > ul li{
+    display: inline-block;
+    background-color: #1177ca;
+    
+    
+  }
+  .nav > .nav-links > ul li:hover{
+      background-color: #0b65af;
+      border-radius: 5px;
+  }
+
+.nav .nav-links ul a.icon{
+ margin-left: 80px;
+ margin-right: 10px;
+ }
+
+ .nav .nav-links ul a i{
+    padding: 7px;
+    margin-left: 5px;
+    background-color: #fff;
+    border-radius: 50px;
+
+ }
+
+ .nav > .nav-btn {
+    display: none; /*Hide toggle button for desktop*/
+  }
+   .nav > #nav-check {
+    display: none;
+  }
+
+ @media (max-width:750px) {
+    .nav > .nav-btn {
+      display: inline-block;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+    }
+    .nav > .nav-btn > label {
+      height: 50px;
+      padding: 13px;
+      display: inline-block;
+      width: 50px;
+
+    }
+    .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+      background-color: rgba(0, 0, 0, 0.3);
+    }
+    .nav > .nav-btn > label > span {
+      height: 10px;
+      border-top: 2px solid #eee;
+      display: block;
+      width: 25px;
+
+    }
+    .nav > .nav-links {
+      position: absolute;
+      height: 0px;
+      transition: all 0.3s ease-in;
+      overflow-y: hidden;
+      top: 50px;
+      display: block;
+      width: 100%;
+      background-color: #333;
+      left: 0px;
+    }
+    .nav > .nav-links > ul li a {
+      display: block;
+      width: 100%;
+    }
+
+    /*   */
+
+
+    
+      .nav > .nav-links > ul li{
+        padding: 0;
+        background-color: #333;
+        display: block;
+        margin-bottom: 20px;
+         
+      }
+      .nav > .nav-links > ul li a{
+          margin-left: 40%;
+      }
+      .nav .nav-links ul a.icon{
+        margin-left: 33%;
+      }
+
+    /*   */
+    .nav > #nav-check:not(:checked) ~ .nav-links {
+      height: 0px;
+    }
+    .nav > #nav-check:checked ~ .nav-links {
+      height: calc(100vh - 50px);
+      overflow-y: auto;
+    }
+  }
+
+*,
+*:before,
+*:after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+  background: #448aff;
+}
+
+.container{
+    background-color: #ffffff;
+    width: 700px;
+    min-width: 500px;
+    /*position: absolute;*/
+    /*transform: translate(-50%,-50%);*/
+    padding: 20px 0;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.timerDisplay{
+  margin: 20px auto 0 auto;
+    width: 92%;
+    background: #ffffff;
+    left: 8%;
+    padding: 40px 0;
+    font-family: 'Roboto mono',monospace;
+    color: #0381bb;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0,139,253,0.25);
+}
+
+.infotext{
+ 
+    font-family: 'Roboto mono',monospace;
+    color: #0381bb;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+.buttons{
+    width: 90%;
+    margin: 60px auto 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.buttons button{
+    width: 120px;
+    height: 45px;
+    background-color: #205e94;
+    color: #ffffff;
+    border: none;
+    font-family: 'Poppins',sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+.Onetwothreebuttons{
+    width: 90%;
+    margin: 30px auto 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Onetwothreebuttons .Paperbuttons{
+  background: url(img/Paper.png) no-repeat scroll 0 0 transparent;  
+  width: 90px;
+    height: 90px;
+    background-color: #205e94;
+    color: #ffffff;
+    border: none;
+    font-family: 'Poppins',sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+.Onetwothreebuttons .Rockbuttons{
+  background: url(img/Rock.png) no-repeat scroll 0 0 transparent;  
+  background-position: 50% 50%;
+  width: 90px;
+    height: 90px;
+    background-color: #205e94;
+    color: #ffffff;
+    border: none;
+    font-family: 'Poppins',sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+
+.Onetwothreebuttons .Scissorsbuttons{
+  background: url(img/Scissors.png) no-repeat scroll 0 0 transparent;  
+  width: 90px;
+    height: 90px;
+    background-color: #205e94;
+    color: #ffffff;
+    border: none;
+    font-family: 'Poppins',sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+.Loterrybuttons{
+    width: 90%;
+    margin: 60px auto 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.Loterrybuttons button{
+    width: 45px;
+    height: 45px;
+    background-color: #d23332;
+    color: #ffffff;
+    border: none;
+    font-family: 'Poppins',sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+.buttons button:nth-last-child(1){
+  background-color: #d23332;
+}
+.buttons button:nth-last-child(2){
+  background-color: #20b380;
+}
+.form .input-icon{
+    color: #007bb7;
+    font-size: 22px;
+    text-align: center;
+    line-height: 43px;
+    height: 45px;
+    width: 25px;
+    margin: 0 0 0 4px;
+    vertical-align: top;
+    display: inline-block;
+}
+.styled-table {
+    border-collapse: collapse;
+    margin: 20px auto 0 auto;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    top: 10%;
+    /*position: relative;*/
+}
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+  /* Basic design of blog card */
+.wrapper {
+  flex-wrap: wrap;
+  justify-content: center;
+  top: 10%;
+  text-align:center;
+}
+
+/* Blog post design starts from here */
+.card {
+  /*overflow: hidden;*/
+  box-shadow: 0px 2px 20px #d7dfe2; /* Card outline shadow */
+  background: white; /* post background color */
+  border-radius: 0.5rem;
+  /*position: relative;*/
+  width: 710px; /* post card width */
+  margin: 1rem;
+  transition: 250ms all ease-in-out;
+  cursor: pointer;
+  top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*.card:hover {  /* blog post hover */
+/*  transform: scale(1.05);
+  box-shadow: 0px 2px 40px #d7dfe2;
+}*/
+/* Design of # tags, heading, description starts from here */
+.card-body {
+  margin: 15rem 1rem 1rem 1rem;
+}
+/* Input field for betting value */
+input[type=number] {
+  width: 50%;
+  padding: 12px 20px;
+  margin-top: 8px;
+  margin-bottom: 4px;
+  border: 1px solid #00C3FF;
+  box-sizing: border-box;
+  border-radius: 6px;
+  color: black;
+  background: transparent;
+  transition: all 0.30s ease-in-out;
+}
+
+.ApproveButtons{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ApproveButtons button{
+    width: 120px;
+    height: 30px;
+    background-color: #20b2aa;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    font-family: 'Poppins',sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #1177ca;
+  color: white;
+  font-family: 'segoe ui';
+  text-align: center;
+  height: 30px;
+}
