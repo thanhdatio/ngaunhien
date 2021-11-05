@@ -1,8 +1,6 @@
 Kiểm tra máy chủ
 Kiểm tra máy chủ
 Kiểm tra máy chủ
-Kiểm tra máy chủ
-Kiểm tra máy chủ
 Kiểm tra firewall
 Sắp xếp công việc gốc
 Sắp xếp công việc gốc
@@ -18,8 +16,6 @@ Nhắm mắt thư giãn
 Xem google tren crypto
 Xem google tren crypto
 Xem google tren crypto
-Xem google tren crypto
-Xem google tren crypto
 Kiểm tra vốn
 Kiểm tra vốn
 Kiểm tra vốn
@@ -29,8 +25,6 @@ Kiểm tra vốn
 Đọc sách
 Đọc sách
 Đọc sách
-Xem thị trường forex
-Xem thị trường forex
 Xem thị trường forex
 Xem thị trường forex
 Xem thị trường forex
@@ -39,17 +33,12 @@ Lướt facebook, giải trí
 Rà soát kế hoạch trung tu
 Hoàn thiện quy định bảo mật
 Hoàn thiện quy định bảo mật
-Hoàn thiện quy định bảo mật
-Hoàn thiện quy định bảo mật
 Triển khai phát âm ra loa cầu vượt từ xa
 Hướng dẫn Sơn
 Rà soát kế hoạch bảo trì 2022, báo Minh KT
 Vào VPĐT xem công việc
 Vào VPĐT xem công việc
 Vào VPĐT xem công việc
-Vào VPĐT xem công việc
-Vào VPĐT xem công việc
-Hoàn thiện báo cáo công việc tuần
 Hoàn thiện báo cáo công việc tuần
 Hoàn thiện báo cáo công việc tuần
 Hoàn thiện báo cáo công việc tuần
@@ -87,4 +76,3 @@ Rà soát mật khẩu hệ thống ITS
 Mua phần mềm diệt virus
 Mua phần mềm ofice
 Sửa chữa, nâng cấp máy tính
-Mua thiết bị lưu trữ video thu phí
