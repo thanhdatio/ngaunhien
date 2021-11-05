@@ -2,6 +2,7 @@ Kiểm tra máy chủ
 Kiểm tra máy chủ
 Kiểm tra máy chủ
 Kiểm tra firewall
+Kiểm tra firewall
 Sắp xếp công việc gốc
 Sắp xếp công việc gốc
 Sắp xếp công việc gốc
@@ -40,6 +41,7 @@ Hoàn thiện quy định bảo mật
 Hoàn thiện quy định bảo mật
 Triển khai phát âm ra loa cầu vượt từ xa
 Hướng dẫn Sơn
+Rà soát kế hoạch bảo trì 2022, báo Minh KT
 Rà soát kế hoạch bảo trì 2022, báo Minh KT
 Vào VPĐT xem công việc
 Vào VPĐT xem công việc
