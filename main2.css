@@ -227,76 +227,6 @@ body{
     justify-content: space-around;
 }
 .buttons button{
-    width: 120px;
-    height: 45px;
-    background-color: #205e94;
-    color: #ffffff;
-    border: none;
-    font-family: 'Poppins',sans-serif;
-    font-size: 18px;
-    border-radius: 5px;
-    cursor: pointer;
-    outline: none;
-}
-
-.Onetwothreebuttons{
-    width: 90%;
-    margin: 30px auto 0 auto;
-    display: flex;
-    justify-content: space-around;
-}
-
-.Onetwothreebuttons .Paperbuttons{
-  background: url(img/Paper.png) no-repeat scroll 0 0 transparent;  
-  width: 90px;
-    height: 90px;
-    background-color: #205e94;
-    color: #ffffff;
-    border: none;
-    font-family: 'Poppins',sans-serif;
-    font-size: 18px;
-    border-radius: 5px;
-    cursor: pointer;
-    outline: none;
-}
-
-.Onetwothreebuttons .Rockbuttons{
-  background: url(img/Rock.png) no-repeat scroll 0 0 transparent;  
-  background-position: 50% 50%;
-  width: 90px;
-    height: 90px;
-    background-color: #205e94;
-    color: #ffffff;
-    border: none;
-    font-family: 'Poppins',sans-serif;
-    font-size: 18px;
-    border-radius: 5px;
-    cursor: pointer;
-    outline: none;
-}
-
-
-.Onetwothreebuttons .Scissorsbuttons{
-  background: url(img/Scissors.png) no-repeat scroll 0 0 transparent;  
-  width: 90px;
-    height: 90px;
-    background-color: #205e94;
-    color: #ffffff;
-    border: none;
-    font-family: 'Poppins',sans-serif;
-    font-size: 18px;
-    border-radius: 5px;
-    cursor: pointer;
-    outline: none;
-}
-
-.buttons{
-    width: 90%;
-    margin: 60px auto 0 auto;
-    display: flex;
-    justify-content: space-around;
-}
-.buttons button{
     width: 45px;
     height: 45px;
     background-color: #d23332;
@@ -399,30 +329,6 @@ input[type=number] {
   color: black;
   background: transparent;
   transition: all 0.30s ease-in-out;
-}
-
-.ApproveButtons{
-    width: 90%;
-    display: flex;
-    justify-content: space-around;
-    margin-left: auto;
-    margin-right: auto;
-}
-.ApproveButtons button{
-    width: 120px;
-    height: 30px;
-    background-color: #20b2aa;
-    color: #ffffff;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border: none;
-    font-family: 'Poppins',sans-serif;
-    font-size: 18px;
-    border-radius: 5px;
-    cursor: pointer;
-    outline: none;
 }
 
 .footer {
