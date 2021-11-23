@@ -91,11 +91,8 @@ Sửa chữa, nâng cấp máy tính
 Đào tạo, hướng dẫn ae dưới tuyến viết văn bản
 Nhiệm vụ tư vấn thiết kế hệ thống ITS
 Nhiệm vụ tư vấn thiết kế hệ thống ITS
-Nhiệm vụ tư vấn thiết kế hệ thống ITS
 Rà soát VO gói EX13, các thiết bị thay đổi so với thiết kế
 Rà soát VO gói EX13, các thiết bị thay đổi so với thiết kế
-Xây dựng hồ sơ TKKT hệ thống ITS Thái Bình
-Xây dựng hồ sơ TKKT hệ thống ITS Thái Bình
 Xây dựng hồ sơ TKKT hệ thống ITS Thái Bình
 Giao cổ cứng NAS cho anh Thành
 Giao anh Thành quản lý tài sản tháo ra
@@ -105,3 +102,4 @@ Giao a Thành tìm nơi sửa thiết bị ITS
 Giám sát thi công điện nhẹ tại CMO
 Viết thông báo gửi các phòng về nâng cấp VPĐT
 Gửi CV TCT về thiết bị EX13 lỗi.
+Góp ý tiêu chuẩn ITS
