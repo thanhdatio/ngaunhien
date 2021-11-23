@@ -103,4 +103,5 @@ Giao a thành đôn đốc chất lượng công việc anh em
 Giao a Thành cập nhật tài khoản kỹ thuật
 Giao a Thành tìm nơi sửa thiết bị ITS
 Giám sát thi công điện nhẹ tại CMO
-Viết thông báo gửi các phòng về nâng cấp VPDT
+Viết thông báo gửi các phòng về nâng cấp VPĐT
+Gửi CV TCT về thiết bị EX13 lỗi.
