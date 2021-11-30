@@ -102,3 +102,4 @@ Giám sát thi công điện nhẹ tại CMO
 Viết thông báo gửi các phòng về nâng cấp VPĐT
 Gửi CV TCT về thiết bị EX13 lỗi.
 Góp ý tiêu chuẩn ITS
+Triển khai lắp đặt camera
