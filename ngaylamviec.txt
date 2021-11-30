@@ -37,8 +37,7 @@ Vào facebook đọc tin tức
 Vào telgram đọc tin tức
 Vào web vnexpress đọc tin tức
 Rà soát, quản lý thiết bị
-Rà soát kế hoạch trung tu
-Hoàn thiện quy định bảo mật
+Rà soát, quản lý thiết bị
 Hoàn thiện quy định bảo mật
 Triển khai phát âm ra loa cầu vượt từ xa
 Hướng dẫn Sơn
@@ -73,7 +72,6 @@ Cập nhật nâng cấp phần mềm VPĐT
 Phối hợp PMO xây dựng quy trình bảo trì
 Làm việc với Nhà thầu EX13 và EX13A về công tác đào tạo vận hành hệ thống ITS
 Phối hợp PMO về việc thuê chuyên gia/đơn
-Rà soát thiết bị hệ thống ITS, đưa vào kế hoạch trung tu
 Đôn đốc PMO triển khai giải pháp lưu trữ tự động
 Lên kế hoạch tận dụng ổ cứng đã hết hạn 
 Kiêm tra công tác bảo mật, an toàn hệ thống ITS
@@ -82,9 +80,8 @@ Kiểm định hệ thống cân
 Rà soát, hoàn thành thủ tục kiểm định cân năm 2020
 Thực hiện kiểm định hệ thống cân, hoàn thành trong tháng
 Phối hợp phòng KHKD lập dự toán công tác kiểm định hệ thống cân năm 2022
-Rà soát mật khẩu hệ thống ITS
 Mua phần mềm diệt virus
-Mua phần mềm ofice
+Mua phần mềm office
 Sửa chữa, nâng cấp máy tính
 Đôn đốc VV xử lý lỗi tổng đài, cáp quang km12
 Đào tạo, hướng dẫn ae dưới tuyến viết văn bản
@@ -99,7 +96,5 @@ Giao a thành đôn đốc chất lượng công việc anh em
 Giao a Thành cập nhật tài khoản kỹ thuật
 Giao a Thành tìm nơi sửa thiết bị ITS
 Giám sát thi công điện nhẹ tại CMO
-Viết thông báo gửi các phòng về nâng cấp VPĐT
-Gửi CV TCT về thiết bị EX13 lỗi.
 Góp ý tiêu chuẩn ITS
 Triển khai lắp đặt camera
