@@ -98,3 +98,5 @@ Giao a Thành tìm nơi sửa thiết bị ITS
 Giám sát thi công điện nhẹ tại CMO
 Góp ý tiêu chuẩn ITS
 Triển khai lắp đặt camera
+Báo Dũng XN cấu hình camera CCTV mới và phương án sửa
+Triển khai thay thế đường cáp quang km12
