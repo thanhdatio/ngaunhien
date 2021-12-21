@@ -30,9 +30,9 @@ Kiểm tra vốn
 Xem thị trường forex
 Xem thị trường forex
 Xem thị trường forex
-Tìm coin cross margin
-Tìm coin Isolate margin
-Tìm coin Isolate margin
+Tìm coin future
+Tìm coin future
+Tìm coin future
 Vào facebook đọc tin tức
 Vào telgram đọc tin tức
 Vào web vnexpress đọc tin tức
@@ -100,3 +100,4 @@ Góp ý tiêu chuẩn ITS
 Triển khai lắp đặt camera
 Báo Dũng XN cấu hình camera CCTV mới và phương án sửa
 Triển khai thay thế đường cáp quang km12
+Tìm kiêm phương án sửa camera CCTV
