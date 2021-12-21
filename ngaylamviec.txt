@@ -72,11 +72,8 @@ Phối hợp PMO về việc thuê chuyên gia/đơn
 Đôn đốc PMO triển khai giải pháp lưu trữ tự động
 Lên kế hoạch tận dụng ổ cứng đã hết hạn 
 Kiêm tra công tác bảo mật, an toàn hệ thống ITS
-Rà soát thiết bị MTC tại làn ETC đã tháo ra
-Kiểm định hệ thống cân
-Rà soát, hoàn thành thủ tục kiểm định cân năm 2020
-Thực hiện kiểm định hệ thống cân, hoàn thành trong tháng
-Phối hợp phòng KHKD lập dự toán công tác kiểm định hệ thống cân năm 2022
+Kiêm tra công tác bảo mật, an toàn hệ thống ITS
+Kiêm tra công tác bảo mật, an toàn hệ thống ITS
 Mua phần mềm diệt virus
 Mua phần mềm office
 Sửa chữa, nâng cấp máy tính
