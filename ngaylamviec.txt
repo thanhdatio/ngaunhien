@@ -52,9 +52,6 @@ Hoàn thiện báo cáo công việc tuần
 Đôn đốc PVM xử lý máy chủ videomgmt
 Dán nhãn thiết bị lưu trữ
 Đôn đốc Nam SH xử lý cáp quang
-Nghiên cứu và làm airdrop
-Nghiên cứu và làm airdrop
-Nghiên cứu và làm airdrop
 Triển khai Cryptominigames
 Triển khai Cryptominigames
 Triển khai Cryptominigames
@@ -96,8 +93,6 @@ Giao a thành đôn đốc chất lượng công việc anh em
 Giao a Thành cập nhật tài khoản kỹ thuật
 Giao a Thành tìm nơi sửa thiết bị ITS
 Giám sát thi công điện nhẹ tại CMO
-Góp ý tiêu chuẩn ITS
 Triển khai lắp đặt camera
-Báo Dũng XN cấu hình camera CCTV mới và phương án sửa
 Triển khai thay thế đường cáp quang km12
 Tìm kiêm phương án sửa camera CCTV
