@@ -65,22 +65,11 @@ Ra ngoài tập thể dục
 Rà soát công việc bộ phận
 Rà soát công việc bộ phận
 Rà soát công việc bộ phận
-Cập nhật nâng cấp phần mềm VPĐT
 Phối hợp PMO xây dựng quy trình bảo trì
 Làm việc với Nhà thầu EX13 và EX13A về công tác đào tạo vận hành hệ thống ITS
 Phối hợp PMO về việc thuê chuyên gia/đơn
 Đôn đốc PMO triển khai giải pháp lưu trữ tự động
-Lên kế hoạch tận dụng ổ cứng đã hết hạn 
-Kiêm tra công tác bảo mật, an toàn hệ thống ITS
-Kiêm tra công tác bảo mật, an toàn hệ thống ITS
-Kiêm tra công tác bảo mật, an toàn hệ thống ITS
-Mua phần mềm diệt virus
-Mua phần mềm office
-Sửa chữa, nâng cấp máy tính
 Đôn đốc VV xử lý lỗi tổng đài, cáp quang km12
-Đào tạo, hướng dẫn ae dưới tuyến viết văn bản
-Nhiệm vụ tư vấn thiết kế hệ thống ITS
-Nhiệm vụ tư vấn thiết kế hệ thống ITS
 Rà soát VO gói EX13, các thiết bị thay đổi so với thiết kế
 Rà soát VO gói EX13, các thiết bị thay đổi so với thiết kế
 Xây dựng hồ sơ TKKT hệ thống ITS Thái Bình
@@ -90,6 +79,5 @@ Giao a thành đôn đốc chất lượng công việc anh em
 Giao a Thành cập nhật tài khoản kỹ thuật
 Giao a Thành tìm nơi sửa thiết bị ITS
 Giám sát thi công điện nhẹ tại CMO
-Triển khai lắp đặt camera
 Triển khai thay thế đường cáp quang km12
 Tìm kiêm phương án sửa camera CCTV
