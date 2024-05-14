@@ -1,6 +1,5 @@
 Đi ra ngoài hít thở sâu và vận động ép cột sống
 Làm kịch bản mini game về câu hỏi quy trình bảo trì
-Kiểm tra ae hoàn thiện slide thảo luận ITS
 Vào internet tìm kiếm và đọc thông tin có năng lượng cao
 Tìm kiếm đối tượng tiềm năng
 Tập nín thở đầy hơi
@@ -13,4 +12,3 @@ Xác định các công việc cần thiết vào danh sách đợi
 Xác định các công việc cần thiết vào danh sách đợi
 Xác định các công việc cần thiết vào danh sách đợi
 Đề nghị Nhà thầu thông tin lại về làn thu phí số 1 và 4 Trạm QL39
-Kiểm tra đường truyền BE tại CMO
