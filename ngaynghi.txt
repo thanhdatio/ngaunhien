@@ -1,6 +1,4 @@
 Đi ra ngoài hít thở sâu và vận động ép cột sống
-Tìm kiếm thông tin khoa học về hơi thở
-Tìm kiếm thông tin về tác dụng của đồng đối với sức khỏe
 Tìm kiếm đối tượng tiềm năng
 Tập nín thở đầy hơi
 Tập nín thở không hơi
@@ -15,4 +13,3 @@ Dọn dẹp phòng và bỏ bớt các vật dụng không cần thiết
 Dọn dẹp phòng và bỏ bớt các vật dụng không cần thiết
 Nghiên cứu ý tưởng chống sóng điện từ bằng đồng
 Định hướng về ngách chữa lành bằng hương thơm
-Tìm công thức nấu nước tắm cho thơm người, có thể để tủ lạnh bảo quản
