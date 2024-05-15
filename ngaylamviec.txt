@@ -17,3 +17,4 @@ Xác định các công việc cần thiết vào danh sách đợi
 Remote kiểm tra tình trạng chung của các máy chủ
 Dọn dẹp bàn và nơi làm việc
 Báo cáo công việc tuần
+Tìm công thức nấu nước tắm cho thơm người, có thể để tủ lạnh bảo quản
